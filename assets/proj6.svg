@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="1"><stop offset="0" stop-color="#0284c7"/><stop offset="1" stop-color="#38bdf8"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <g fill="#fff" opacity="0.9"><rect x="150" y="300" width="70" height="90" rx="8" opacity="0.5"/><rect x="250" y="240" width="70" height="150" rx="8" opacity="0.65"/><rect x="350" y="180" width="70" height="210" rx="8" opacity="0.8"/><rect x="450" y="220" width="70" height="170" rx="8" opacity="0.7"/><rect x="550" y="150" width="70" height="240" rx="8" opacity="0.9"/></g>
+  <text x="400" y="450" font-family="system-ui,sans-serif" font-size="20" fill="#fff" fill-opacity="0.9" text-anchor="middle">Dashboard analytics — remplacez cette image</text>
+</svg>
